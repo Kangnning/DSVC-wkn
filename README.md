@@ -1,20 +1,18 @@
-# DSVC-wkn
-
 Data Science and Vision Computing
 ==========================
-assignment1
-* KNN  
+[assignment1](https://github.com/clanceywang/DSVC-wkn/tree/master/assignment1)
+* KNN  
   
-assignment2  
+[assignment2](https://github.com/clanceywang/DSVC-wkn/tree/master/assignment2)  
 * Linear Regression  
   
-assignment3
+[assignment3](https://github.com/clanceywang/DSVC-wkn/tree/master/assignment3)
 * Logsitic Regression  
   
 assignment4
 * SVM  
   
-assignment5
+[assignment5](https://github.com/clanceywang/DSVC-wkn/tree/master/assignment5)
 * Neural Network  
   
 assignmeng6
