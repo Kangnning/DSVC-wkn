@@ -51,11 +51,6 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 | **助教**                          |                **-**                |
 | [武宽](https://github.com/quinwu) | [沈文祥](https://github.com/swxhss) |
 
-
-### Participating students
-
-- [2018 Summer](Course%20completion%20list)
-
 ### Reference & Acknowledgements
 
 我们的课程作业内容主要参考到了以下相关课程，在此对以下相关内容的作者表示感谢。
